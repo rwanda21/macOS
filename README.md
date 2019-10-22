@@ -1,18 +1,19 @@
 
 
 #### Index
-1. [Applications](#Applications)
+1. [Applications](#applications)
     - [Development](#development)
     - [Utilities](#utilities)
     - [Other](#other)
     - [Safari Extensions](#safari-extensions)
-2. [Command-Line Tools](#command-line-tools)
+2. [Atom Packages](#atom-packages)
+3. [Command-Line Tools](#command-line-tools)
     - [iTerm2 Configuration](#iterm2-configuration)
     - [HomeBrew Formulae](#homebrew-formulae)
     - [Ruby Gems](#ruby-gems)
     - [Node Packages](#node-packages)
-3. [Alfred Workflows](#alfred-workflows)
-4. [Settings & Preferences](#settings--preferences)
+4. [Alfred Workflows](#alfred-workflows)
+5. [Settings & Preferences](#settings--preferences)
     - [Favorite Screensavers](#favorite-screensavers)
 
 ## Applications
@@ -69,6 +70,12 @@
 
 - [Wipr](https://apps.apple.com/us/app/wipr/id1320666476) - simple ad-blocker
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - adds picture-in-picture capability to any HTML5 video player
+
+## Atom Packages
+
+- [trailing-spaces](https://atom.io/packages/trailing-spaces) - highlights trailing (sometimes hidden) spaces
+- [hex-view](https://atom.io/packages/hex-view) - convert text files to and from hex dumps
+- [dash](https://atom.io/packages/dash) - Dash documentation integration
 
 ## Command-Line Tools
 
