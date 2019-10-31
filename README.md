@@ -48,7 +48,6 @@
 - [DaisyDisk](https://daisydiskapp.com) - beautiful visual interface for storage utilization
 - [Toothpicks](https://apps.apple.com/us/app/toothpicks/id998361254) - handy Bluetooth device manager
 - [HEIC Converter](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261) - free photo conversion tool
-- [Overkill](https://github.com/KrauseFx/overkill-for-mac) - prevents iTunes from launching when connecting iOS devices
 - [GifCapture](https://github.com/onmyway133/GifCapture) - quickly create GIFs by recording portions or elements of the screen
 
 
