@@ -111,6 +111,7 @@
 - [ffmpeg](https://formulae.brew.sh/formula/ffmpeg) - video conversion tool; used for youtube-dl and video_transcoding
 - [mkvtoolnix](https://formulae.brew.sh/formula/mkvtoolnix) - tools for managing MKV files; dependency for video_transcoding
 - [mp4v2](https://formulae.brew.sh/formula/mp4v2) - tools for managing MP4 files; dependency for video_transcoding
+- [mpv](https://formulae.brew.sh/cask/mpv) - powerful media player; used to find exact time stamps in video files
 - [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) - execute bandwidth tests via command-line
 - [wifi-password](https://formulae.brew.sh/formula/wifi-password) - displays password for connected Wi-Fi network
 - [zsh-syntax-highlighting](https://formulae.brew.sh/formula/zsh-syntax-highlighting) - provides syntax highlighting for zsh shell
@@ -118,7 +119,14 @@
 - [imagemagick](https://formulae.brew.sh/formula/imagemagick) - utility for manipulating images
 
 ### Ruby Gems
+
 - [video_transcoding](https://rubygems.org/gems/video_transcoding) - used to reduce video file sizes without perceptible loss of quality
+    - `mkvinfo <source.mkv>`
+    - `mkvextract <source.mkv> tracks #:<output.srt>`
+    - `transcode-video --no-auto-burn --target big <source.mkv>`
+        - `--burn-srt <subtitle.srt>`
+        - `-H start-at=duration:ss.ms`
+        - `-H stop-at=duration:ss.ms`
 
 ### Node Packages
 
