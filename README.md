@@ -49,6 +49,7 @@
 - [Toothpicks](https://apps.apple.com/us/app/toothpicks/id998361254) - handy Bluetooth device manager
 - [HEIC Converter](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261) - free photo conversion tool
 - [GifCapture](https://github.com/onmyway133/GifCapture) - quickly create GIFs by recording portions or elements of the screen
+- [Gifski](https://gif.ski) - easily convert videos into gifs of custom length, size and quality
 
 
 ### Other
@@ -77,8 +78,6 @@
 - [dash](https://atom.io/packages/dash) - Dash documentation integration
 
 ## Command-Line Tools
-
-![](https://i.imgur.com/tPfkzRo.png)
 
 ### iTerm 2 Configuration
 
@@ -115,6 +114,7 @@
 - [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) - execute bandwidth tests via command-line
 - [wifi-password](https://formulae.brew.sh/formula/wifi-password) - displays password for connected Wi-Fi network
 - [zsh-syntax-highlighting](https://formulae.brew.sh/formula/zsh-syntax-highlighting) - provides syntax highlighting for zsh shell
+- [gifski](https://formulae.brew.sh/formula/gifski) - CLI tool for Gifski
 - [ghostscript](https://formulae.brew.sh/formula/ghostscript) - dependency for ImageMagick
 - [imagemagick](https://formulae.brew.sh/formula/imagemagick) - utility for manipulating images
 
@@ -145,18 +145,7 @@
 
 ### Favorite Screensavers
 
-[**Fliqlo**](https://fliqlo.com) - animated flip clock
-
-![](https://i.imgur.com/g01KHFp.png)
-
-[**Brooklyn**](https://github.com/pedrommcarrasco/Brooklyn) - animations from Apple's October 2018 special event
-
-![](https://i.imgur.com/qsdmz49.png)
-
-[**Aerial**](https://github.com/JohnCoates/Aerial) - screensaver videos for Apple TV on your Mac
-
-![](https://i.imgur.com/z9ONAoT.png)
-
-[**Drift**](#) - available within macOS 10.15 (Catalina)
-
-![](https://i.imgur.com/ITxY1nB.png)
+- [**Fliqlo**](https://fliqlo.com) - animated flip clock
+- [**Brooklyn**](https://github.com/pedrommcarrasco/Brooklyn) - animations from Apple's October 2018 special event
+- [**Aerial**](https://github.com/JohnCoates/Aerial) - screensaver videos for Apple TV on your Mac
+- [**Drift**](#) - available within macOS 10.15 (Catalina)
