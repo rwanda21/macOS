@@ -46,7 +46,6 @@
 - [Screens 4](https://edovia.com/en/screens-mac/) - powerful VNC client
   - [Screens Connect](https://screensconnect.com/en/) - companion application
 - [DaisyDisk](https://daisydiskapp.com) - beautiful visual interface for storage utilization
-- [Toothpicks](https://apps.apple.com/us/app/toothpicks/id998361254) - handy Bluetooth device manager
 - [HEIC Converter](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261) - free photo conversion tool
 - [GifCapture](https://github.com/onmyway133/GifCapture) - quickly create GIFs by recording portions or elements of the screen
 - [Gifski](https://gif.ski) - easily convert videos into gifs of custom length, size and quality
