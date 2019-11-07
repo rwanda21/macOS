@@ -122,11 +122,11 @@
 
 - [video_transcoding](https://rubygems.org/gems/video_transcoding) - used to reduce video file sizes without perceptible loss of quality
     - `mkvinfo <source.mkv>`
-    - `mkvextract <source.mkv> tracks #:<output.srt>`
+    - `mkvextract <source.mkv> tracks <#>:<output.srt>`
     - `transcode-video --no-auto-burn --target big <source.mkv>`
         - `--burn-srt <subtitle.srt>`
-        - `-H start-at=duration:ss.ms`
-        - `-H stop-at=duration:ss.ms`
+        - `-H start-at=duration:<ss.ms>`
+        - `-H stop-at=duration:<ss.ms>`
 
 ### Node Packages
 
