@@ -32,7 +32,6 @@
 - [Alfred 4](https://www.alfredapp.com) - Spotlight replacement and productivity catalyst
 - [Shifty](https://shifty.natethompson.io/en/) - easily manage Night Shift
 - [Magnet](https://magnet.crowdcafe.com) - organize workspaces by snapping apps to preset tile locations
-- [Be Focused Pro](https://apps.apple.com/us/app/be-focused-pro-focus-timer/id961632517) - stay on task using effective Pomodoro methodology
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - small utility for keeping your Macbook awake
 - [ExternalDisplayBrightness](https://github.com/fnesveda/ExternalDisplayBrightness) - control brightness of external display(s) using keyboard shortcuts
 - [Monit](https://apps.apple.com/us/app/monit/id1014850245) - system monitor widget for notification center
@@ -72,11 +71,16 @@
 - [Wipr](https://apps.apple.com/us/app/wipr/id1320666476) - simple ad-blocker
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) - adds picture-in-picture capability to any HTML5 video player
 
-## Atom Packages
+## Atom Text Editor
+#### Packages
 
 - [trailing-spaces](https://atom.io/packages/trailing-spaces) - highlights trailing (sometimes hidden) spaces
 - [hex-view](https://atom.io/packages/hex-view) - convert text files to and from hex dumps
 - [dash](https://atom.io/packages/dash) - Dash documentation integration
+
+#### Themes
+
+- [tomorrow-night-eighties-syntax](https://atom.io/themes/tomorrow-night-eighties-syntax) - syntax theme using the ever popular Tomorrow Night Eighties colors
 
 ## Command-Line Tools
 
