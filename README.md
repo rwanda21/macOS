@@ -27,44 +27,48 @@
 - [Atom](https://atom.io) - extensible text editor
 - [Expressions](https://apps.apple.com/us/app/expressions/id913158085) - helpful tool for quickly creating regular expressions
 - [Kaleidoscope](https://www.kaleidoscopeapp.com) - powerful file comparison tool
+- [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) - configurable symbols by Apple for application interfaces
 
 ### Utilities
 - [Alfred 4](https://www.alfredapp.com) - Spotlight replacement and productivity catalyst
 - [Shifty](https://shifty.natethompson.io/en/) - easily manage Night Shift
 - [Magnet](https://magnet.crowdcafe.com) - organize workspaces by snapping apps to preset tile locations
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - small utility for keeping your Macbook awake
-- [ExternalDisplayBrightness](https://github.com/fnesveda/ExternalDisplayBrightness) - control brightness of external display(s) using keyboard shortcuts
+- [The Unarchiver](https://macpaw.com/the-unarchiver) - lightweight data decompression tool
 - [Monit](https://apps.apple.com/us/app/monit/id1014850245) - system monitor widget for notification center
+- [Postman](https://www.postman.com) - collaborative API testing platform
 - [tmpNote](https://apps.apple.com/us/app/tmpnote/id1293664761) - simple, accessible and persistent notepad on the menu bar
 - [iStat Menus 6](https://bjango.com/mac/istatmenus/) - customizable system monitor for your menu bar
 - [Radio Silence](https://radiosilenceapp.com) - network monitor and firewall
 - [HazeOver](https://hazeover.com) - dim the screen outside of the active app window to increase focus and productivity
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - thoroughly and completely uninstall programs
 - [DaisyDisk](https://daisydiskapp.com) - beautiful visual interface for storage utilization
+- [Mactracker](http://mactracker.ca) - provides detailed information on hardware created by Apple
 - [HEIC Converter](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261) - free photo conversion tool
 - [GifCapture](https://github.com/onmyway133/GifCapture) - quickly create GIFs by recording portions or elements of the screen
 - [Gifski](https://gif.ski) - easily convert videos into gifs of custom length, size and quality
 - [Deliveries](https://apps.apple.com/us/app/deliveries/id924726344) - keep track of packages and shipments across devices
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) - display technical and tag information for audio and video files
+- [KeyboardCleanTool](https://folivora.ai/keyboardcleantool/) - simple tool which blocks keyboard and TouchBar input
 
 
 ### Other
 - [iTerm2](https://iterm2.com) - highly customizable Terminal replacement
 - [Enpass](https://www.enpass.io) - multi-platform password vault with local and cloud sync options; no subscription
+- [Notability](https://apps.apple.com/us/app/notability/id736189492?mt=12) - simple note and annotation tool
 - [Slack](https://slack.com) - searchable log of all conversation and knowledge
 - [Discord](https://discordapp.com) - voice communication for gaming and other communities
 - [qBittorrent](https://www.qbittorrent.org) - open-source P2P bittorrent client
 - [NordVPN](https://apps.apple.com/us/app/vpn-by-nordvpn-web-security/id1116599239) - VPN client by one of the best providers
 - [Transmit 5](https://www.panic.com/transmit/) - amazing FTP program that includes cloud connectivity
-- [Affinity Design](https://affinity.serif.com/en-us/designer/) - vector graphic design software; replacement for Adobe Illustrator
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - photo editing software; replacement for Adobe Photoshop
 - [Typeface](https://typefaceapp.com) - beautiful font manager
-- [IINA](https://iina.io) - modern, free, open-source media player
+- [IINA](https://iina.io) - modern open-source media player
 - [Plex](https://www.plex.tv) - playback client for personal media server
-- [Larry's To-Do List](https://apps.apple.com/us/app/larrys-to-do-list/id1450996604) - free, offline task management
 - [Screens 4](https://edovia.com/en/screens-mac/) - powerful VNC client
   - [Screens Connect](https://screensconnect.com/en/) - companion application
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - fun terminal emulator that mimics legacy terminals and CRT monitors
-- [Mactracker](http://mactracker.ca) - provides detailed information on hardware created by Apple
+- [Downlink](https://downlinkapp.com) - real-time satellite desktop background
+
 
 ### Safari Extensions
 
@@ -108,7 +112,6 @@
 - [asciinema](https://formulae.brew.sh/formula/asciinema) - used for recording terminal sessions
 - [thefuck](https://formulae.brew.sh/formula/thefuck) - suggests corrections for mistyped commands
 - [archey](https://formulae.brew.sh/formula/archey) - displays colorful system information
-- [dark-mode](https://formulae.brew.sh/formula/dark-mode) - control system dark mode status via command-line
 - [node](https://formulae.brew.sh/formula/node) - javascript runtime; also installs `npm` software registry
 - [youtube-dl](https://formulae.brew.sh/formula/youtube-dl) - downloads videos from YouTube and other sites
 - [handbrake](https://formulae.brew.sh/formula/handbrake) - includes HandBrake-CLI; dependency for video_transcoding
